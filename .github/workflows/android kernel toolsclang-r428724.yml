@@ -74,7 +74,7 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE/kernel_workspace
         mkdir clang-aosp
-        git clone https://github.com/37430268/android-kernel-tools.git clang-aosp --depth=1
+        git clone https://github.com/2536/android-kernel-tools.git clang-aosp --depth=1
           
         
 
